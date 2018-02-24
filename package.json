@@ -1,0 +1,27 @@
+{
+  "name": "spot-to-geojson",
+  "version": "1.0.0",
+  "description": "A tool that converts spot track to geojson.",
+  "main": "spot-to-geojson.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wreszelewski/spot-to-geojson.git"
+  },
+  "keywords": [
+    "geojson",
+    "spot"
+  ],
+  "author": "Wojciech Reszelewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wreszelewski/spot-to-geojson/issues"
+  },
+  "homepage": "https://github.com/wreszelewski/spot-to-geojson#readme"
+}
